@@ -1,0 +1,12 @@
+{
+  "name": "0922_vitewebapp",
+  "version": "1.0.1",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "sass": "^1.56.1",
+    "vite": "^3.2.3"
+  }
+}
